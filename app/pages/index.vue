@@ -1,3 +1,3 @@
 <template>
-  <NuxtPage />
+  这是首页
 </template>
